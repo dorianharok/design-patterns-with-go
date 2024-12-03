@@ -1,1 +1,1 @@
-module design-patterns-with-go
+module github.com/dorianharok/design-patterns-with-go
